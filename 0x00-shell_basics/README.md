@@ -11,3 +11,4 @@ This repository contains a collection of shell scripts . Each script performs a 
 - **5-listfilesdigitonly:** Displays the current directory contents in a long format with user and group IDs displayed numerically.
 - **6-firstdirectory:** Creates a directory named my_first_directory in the /tmp/ directory.
 - **7-movethatfile:** Move the file betty from /tmp/ to /tmp/my_first_directory.
+- **8-firstdelete** Delete the file betty in /tmp/my_first_directory.
