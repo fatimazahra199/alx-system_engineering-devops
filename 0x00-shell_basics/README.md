@@ -10,3 +10,13 @@ To run the script, open a terminal and navigate to the directory containing the 
 
 Finally, execute the script: ./0-current_working_directory
 
+
+## Task1: Prints the absolute path name of the current working directory
+
+The script 1-listit is designed to Displays the contents list of the current directory.
+
+To run the script, open a terminal and navigate to the directory containing the script. Then, make sure the script is executable using the following\
+ command: chmod +x 1-listit
+
+Finally, execute the script: ./1-listit
+
