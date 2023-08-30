@@ -9,3 +9,5 @@ This repository contains a collection of shell scripts . Each script performs a 
 - **3-listfiles:** Displays the current directory contents in a long format.
 - **4-listmorefiles:** Displays the current directory contents, including hidden files, in a long format.
 - **5-listfilesdigitonly:** Displays the current directory contents in a long format with user and group IDs displayed numerically.
+- **6-firstdirectory:** Creates a directory named my_first_directory in the /tmp/ directory.
+- 
