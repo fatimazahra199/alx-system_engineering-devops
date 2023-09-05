@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "obase=ibase=26;$(tr 'awtire.' '0123456789' <<< "$WATER")+$(tr 'awtire.' '0123456789' <<< "$STIR")" | bc | tr -d '\n' | tr '0123456789ABCDEF' 'bestchol'
